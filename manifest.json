@@ -1,0 +1,38 @@
+{
+  "wire_version": 4,
+  "source": "pizza-maint",
+  "files": [
+    {
+      "name": "build.zig",
+      "sha256": "1fe74aa25edbabd059115148ada3dfb877ece5191eb6be159f0e69dc5b29316a"
+    },
+    {
+      "name": "build.zig.zon",
+      "sha256": "1d87fe8a1d74576ad417d4d0df0daede663b2b207e4a7515da5753d0eecc6d87"
+    },
+    {
+      "name": "README.md",
+      "sha256": "08560e2e317906b003f9a61fae1c8c60c11f03c5164e1f24d9f191f644b4f233"
+    },
+    {
+      "name": "root.zig",
+      "sha256": "1932a55ab48bf54117d5b69b79c1b6ce057e37a1cd478de9d115d4a669605e5f"
+    },
+    {
+      "name": "contract.json",
+      "sha256": "4a71b392775735835479be341ee7f71c6af976c8bf3ecf9405c44a786d3a7180"
+    },
+    {
+      "name": "generated.zig",
+      "sha256": "c4ee76ea0e9f79b6cc59134725e4077ffb7751ccc821e48e0be620c7a3606365"
+    },
+    {
+      "name": "generated/contract.js",
+      "sha256": "35ae5b6f891988b28424f8d85e03d48e60bc391561ff8fb67306ea3da44c69a6"
+    },
+    {
+      "name": "generated/contract.d.ts",
+      "sha256": "b6782ab6cadfc3300b0dc8dc6e872131ee737e8c80a6de7b7f4101485623d49e"
+    }
+  ]
+}
